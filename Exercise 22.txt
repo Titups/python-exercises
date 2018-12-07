@@ -1,0 +1,13 @@
+print: print any typed information in python
+#: added comments in the input will be ignored in the output
+%: used as a modulus to express a division in math operations
+=: used to give variables specific value
+%r, %d: used to drag values in a specific printing (formatters)
+\n: use as a difficult-to-type characters in a string
+\\: just one back slash appears in the output.
+': used as a escape sequence
+input: used to take a piece of information, change it, and show  how  it changed.
+import: used to add features to a script without adding them all at once.
+promt more than: used to avoid repeating things over and over  again
+def: creates functions to name pieces of code
+return: set variables to be a value for a function.
